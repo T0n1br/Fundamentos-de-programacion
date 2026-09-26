@@ -4,3 +4,27 @@ Servicio: Corte de cabello
 Precio: 300
 Anticipo: 150.0
 -------------------------
+Fecha: 9/9/2026
+Cliente: ana
+Servicio: Spa
+Precio: 1200
+Anticipo: 600.0
+-------------------------
+Fecha: 27/9/2026
+Cliente: tony
+Servicio: Maquillaje
+Precio: 500
+Anticipo: 250.0
+-------------------------
+Fecha: 27/9/2026
+Cliente: tony
+Servicio: Corte de cabello
+Precio: 300
+Anticipo: 150.0
+-------------------------
+Fecha: 19/9/2026
+Cliente: tony
+Servicio: Spa
+Precio: 1200
+Anticipo: 600.0
+-------------------------
